@@ -1,4 +1,4 @@
-Android Paging With Network and cache 
+Android Paging
 =====================================
 
 A collection of samples using the Architecture Components:
@@ -9,3 +9,6 @@ A collection of samples using the Architecture Components:
 - LiveData
 
 
+## License
+
+Android Paging is available under the MIT license. See the LICENSE file for more info.
